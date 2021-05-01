@@ -1,4 +1,4 @@
-import DataStructures.LruCache
+import dataStructures.LruCache
 import org.junit.Test
 import kotlin.test.assertEquals
 
